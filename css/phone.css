@@ -1,0 +1,48 @@
+#navbar{
+    flex-direction: column;
+}
+#menu{
+    flex-direction: column;
+}
+#menu .box{
+}
+#del-partners{
+    width:100%;
+    margin-bottom: 0px;
+}
+#bg-image{
+    height: 370px;
+    /* margin: 0px; */
+}
+#bg-image::before{
+    height: 480px;
+    width: 100%;
+}
+#bg-image .content{
+    font-size: 10px;
+}
+#bg-image h1{
+    font-size: 15px;
+    padding:0px;
+    width: 370px;
+    padding-bottom: 34px;
+}
+p{
+    font-size:10px ;
+    width: 370px;
+    padding-bottom: 3px;
+}
+#del-partner::before{
+    height: 100%;
+}
+.partner-item img{
+    height: 50px;
+    margin-top:40px ;
+    width: 50px;
+    padding: 4px;
+    /* padding-top: 0px; */
+}
+
+#partners{
+    flex-wrap: wrap;
+}
