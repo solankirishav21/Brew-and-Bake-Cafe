@@ -1,7 +1,7 @@
 # Brew-and-Bake-Cafe
  
  
- ###  A responsive dummy website made by using HTML and CSS.
+ ###  A responsive dummy website for a CAFE, made by using HTML and CSS.
  
  Laptop Preview
  
