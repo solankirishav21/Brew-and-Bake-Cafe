@@ -130,7 +130,7 @@ p{
 }
 #del-partner::before{
     content: "";
-    background: url("https://pixabay.com/get/g5e93cad04c758d0fb88aca7831c6723e48eb8825dfc1bbdadf6c43f0c7d7c1bfc870eacd997bbb9910f6a105d11e4202cff8a22558d7ba63f3b127bb4531cfd3_1920.jpg");
+    background: url("https://pixabay.com/get/gb8fb3504c699540d023110a9786e9bccc6b54fccd8261a093a3988a8af897ca0bd26c98456c46394ebb7e705895a57677c723c9777c59142f6950758d75aa5a4_1920.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -183,7 +183,7 @@ p{
 }
 #contact::before{
     content: "";
-    background: url("https://pixabay.com/get/g1b5ef8e1b21613a234fb8bd1367f2f315862339bbb9f934c8188c5072034a6e19b4563ba9f198bba0aee9e5a416232efccfbea79f423e06373c408916c86f126_1920.jpg");
+    background: url("https://pixabay.com/get/ge5de3ab6033de1a5279ee02dbf8606de6ea7e9cec7c44a4a5cee95835b798aa238386e797353db37bb6b9283566c1dcdaca19805d1c4b0c5b4d9e32598432324_1920.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
